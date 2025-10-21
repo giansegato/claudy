@@ -2,7 +2,7 @@
 
 A streaming shell assistant powered by Claude. Type natural language in your terminal and press **Ctrl+G** to get instant command suggestions that stream in character-by-character.
 
-https://github.com/giansegato/claudy/blob/main/demo.mov
+https://github.com/user-attachments/assets/04a1221b-9417-4111-8321-842211dfd6fe
 
 ## Features
 
